@@ -1,0 +1,22 @@
+{
+	"name": "firstblock",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "wp-scripts build",
+		"start": "wp-scripts start",
+		"format": "wp-scripts format",
+		"lint": "wp-scripts lint-js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@wordpress/block-editor": "^14.1.0",
+		"@wordpress/blocks": "^13.6.0"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^28.6.0"
+	}
+}
