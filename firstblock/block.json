@@ -7,8 +7,8 @@
 	"icon": "format-status",
 	"textdomain": "firstblock",
 	"editorScript": "file:./build/index.js",
-    "style": "file:./build/style-index.css",
-    "editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css",
+	"editorStyle": "file:./build/index.css",
 
 	"keywords": [ "first", "block" ]
 }
